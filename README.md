@@ -60,3 +60,7 @@ Enter ending number : 0
 
 10.Create a arith class. The class should have a parameterizedconstructor and methods to add, subtract and multiply two numbers and to return the answers.
 
+
+Day-7
+
+Django Website+Registartion Form+Database
